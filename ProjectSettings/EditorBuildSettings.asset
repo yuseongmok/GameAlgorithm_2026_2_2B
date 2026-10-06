@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Lesson3/Scenes/Lesson03_PandemicNodes.unity
     guid: 08335228c05d00946bf6e7ec27873b20
+  - enabled: 1
+    path: Assets/Lesson4/Scenes/Lesson04_BurningLabRescue.unity
+    guid: 14009767a8b38f349bfd2253755bf056
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
